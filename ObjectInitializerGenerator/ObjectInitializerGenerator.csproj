@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Json2CSharp.ObjectInitializerGenerator</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Hilal Hakla</Authors>
+    <Company>Json2CSharp</Company>
+    <Description>Object Initializer class generator library</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/hilal-hakla/ObjectInitializerGenerator</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
