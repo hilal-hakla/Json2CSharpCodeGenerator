@@ -1,8 +1,5 @@
 ﻿using System;
-using System.CodeDom;
 using System.Collections.Generic;
-using System.Net.Configuration;
-using System.Runtime.Serialization.Formatters;
 using System.Text;
 using Xamasoft.JsonClassGenerator.CodeWriterConfiguration;
 using Xamasoft.JsonClassGenerator.Models;

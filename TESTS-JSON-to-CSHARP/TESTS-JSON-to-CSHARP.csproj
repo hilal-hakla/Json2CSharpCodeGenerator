@@ -116,12 +116,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JsonClassGeneratorLib\JsonClassGeneratorLib.csproj">
-      <Project>{CC0CC10E-B4C3-4703-A331-E63FF20D20A1}</Project>
-      <Name>JsonClassGeneratorLib</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Test_0_DIAGNOSTICS_INPUT.txt" />
     <Content Include="Test_0_DIAGNOSTICS_OUTPUT.txt" />
     <Content Include="Test_10_SETTINGS_IMMUTABLE_CLASSES_OUTPUT.txt" />

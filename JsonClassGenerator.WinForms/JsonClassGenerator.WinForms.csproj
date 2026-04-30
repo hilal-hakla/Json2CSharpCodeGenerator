@@ -60,12 +60,6 @@
     <None Include="app.manifest" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JsonClassGeneratorLib\JsonClassGeneratorLib.csproj">
-      <Project>{cc0cc10e-b4c3-4703-a331-e63ff20d20a1}</Project>
-      <Name>JsonClassGeneratorLib</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="Properties\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
